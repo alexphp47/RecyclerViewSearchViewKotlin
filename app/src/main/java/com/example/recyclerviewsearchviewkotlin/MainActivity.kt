@@ -12,7 +12,7 @@ import android.view.View
 import android.widget.SearchView
 import android.widget.Toast
 import java.util.ArrayList
-
+// to add to github
 class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
 
     private var recyclerView: RecyclerView? = null
